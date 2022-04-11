@@ -1,0 +1,16 @@
+D:\AssignofDotNet\bin\Debug\net5.0\AssignofDotNet.exe
+D:\AssignofDotNet\bin\Debug\net5.0\AssignofDotNet.deps.json
+D:\AssignofDotNet\bin\Debug\net5.0\AssignofDotNet.runtimeconfig.json
+D:\AssignofDotNet\bin\Debug\net5.0\AssignofDotNet.runtimeconfig.dev.json
+D:\AssignofDotNet\bin\Debug\net5.0\AssignofDotNet.dll
+D:\AssignofDotNet\bin\Debug\net5.0\ref\AssignofDotNet.dll
+D:\AssignofDotNet\bin\Debug\net5.0\AssignofDotNet.pdb
+D:\AssignofDotNet\obj\Debug\net5.0\AssignofDotNet.csprojAssemblyReference.cache
+D:\AssignofDotNet\obj\Debug\net5.0\AssignofDotNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\AssignofDotNet\obj\Debug\net5.0\AssignofDotNet.AssemblyInfoInputs.cache
+D:\AssignofDotNet\obj\Debug\net5.0\AssignofDotNet.AssemblyInfo.cs
+D:\AssignofDotNet\obj\Debug\net5.0\AssignofDotNet.csproj.CoreCompileInputs.cache
+D:\AssignofDotNet\obj\Debug\net5.0\AssignofDotNet.dll
+D:\AssignofDotNet\obj\Debug\net5.0\ref\AssignofDotNet.dll
+D:\AssignofDotNet\obj\Debug\net5.0\AssignofDotNet.pdb
+D:\AssignofDotNet\obj\Debug\net5.0\AssignofDotNet.genruntimeconfig.cache
